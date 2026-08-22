@@ -24,10 +24,11 @@ Busco sempre aliar boas práticas de engenharia com eficiência técnica. Estou 
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=kevinandersondev&locale=pt_BR&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas de Contribuição" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinandersondev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="Estatísticas Gerais" />
 </div>
 
 <br>
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinandersondev&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinandersondev&theme=tokyonight&bg_color=1a1b27&hide_border=true&color=7aa2f7" width="100%" alt="Gráfico de Atividade" />
 </div>
