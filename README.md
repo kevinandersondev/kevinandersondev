@@ -24,7 +24,7 @@ Busco sempre aliar boas práticas de engenharia com eficiência técnica. Estou 
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=kevinandersondev&locale=pt_BR&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas de Contribuição" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinandersondev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=4" height="165" alt="Troféus do GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=450&height=165&lines=Engenheiro+de+Software;Sistemas+Distribuídos;Deploy+Contínuo+(CI%2FCD);Linux+%2B+Infraestrutura" alt="Terminal Animado" />
 </div>
 
 <br>
