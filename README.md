@@ -2,7 +2,7 @@
 
 # Olá, eu sou Kevin Anderson 👋
 
-### Engenheiro de Software | Desenvolvedor Full Stack Pleno
+### Engenheiro de Software | Desenvolvedor Full Stack
 
 Sou Engenheiro de Software especializado no desenvolvimento de sistemas web de alta performance e arquiteturas escaláveis. Atuo de ponta a ponta no ciclo de vida das aplicações, entregando desde integrações complexas no backend até interfaces modernas e responsivas no frontend.
 
