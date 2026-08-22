@@ -22,6 +22,7 @@ Busco sempre aliar boas práticas de engenharia com eficiência técnica. Estou 
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kevinandersondev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinandersondev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=kevinandersondev&locale=pt_BR&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas de Contribuição" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinandersondev&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais utilizadas" />
+</div>
