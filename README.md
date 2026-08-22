@@ -1,84 +1,32 @@
-<br clear="both">
+<img align="right" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNzMGNwaG90ZjQxaXl2Nmh2a2Vkb3A4YXM5emJxZnc5MnpwMXdiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
-<img align="right" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNzMGNwaG90ZjQxaXl2Nmh2a2Vkb3A4YXM5emJxZnc5MnpwMXdiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<h1 align="left">Olá, eu sou Kevin Anderson 👋</h1>
 
-###
+<h3 align="left">Engenheiro de Software | Desenvolvedor Full Stack Pleno</h3>
 
-<h1 align="center">👋 Olá, seja bem-vindo ao meu perfil do GitHub!!</h1>
+<p align="left">
+  Sou Engenheiro de Software especializado no desenvolvimento de sistemas web de alta performance e arquiteturas escaláveis. Atuo de ponta a ponta no ciclo de vida das aplicações, entregando desde integrações complexas no backend até interfaces modernas e responsivas no frontend.
+  <br><br>
+  Minha especialidade é a construção de soluções robustas utilizando tecnologias como PHP, Laravel, Java e ecossistemas JavaScript modernos (Vue.js, Nuxt 3). Tenho experiência prática no desenho de APIs RESTful, modelagem de bancos de dados relacionais e sistemas voltados para transações e recorrência. 
+  <br><br>
+  Além do desenvolvimento de software, possuo forte vivência em operações de infraestrutura. Aplico conceitos de DevOps no meu dia a dia, utilizando Docker, ambientes Linux e pipelines CI/CD para garantir automação, segurança e estabilidade nos deploys em produção.
+  <br><br>
+  Busco sempre aliar boas práticas de engenharia com eficiência técnica. Estou disponível para novas oportunidades no mercado de tecnologia e pronto para atuar em projetos que exijam alto nível de qualidade e escalabilidade.
+</p>
 
-###
+<br>
 
-<h3 align="left">👨🏻‍💻  Sobre mim</h3>
+<h3 align="left">💻 Tecnologias e Ferramentas</h3>
 
-###
-
-<p align="left">Me chamo Kevin Anderson, sou Engenheiro de Software e desenvolvedor Java e PHP</p>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<h3 align="left">💻 Tecnologias</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,ts,js,vue,nuxtjs,react,angular,flutter,tailwind,postgres,mysql,mongodb,docker,kubernetes,linux,aws" height="40" alt="skills" />
 </div>
 
-###
+<br>
 
-<h1 align="left"></h1>
+<h3 align="left">📊 Estatísticas do GitHub</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinandersondev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kevinandersondev&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="165" alt="streak graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinandersondev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinandersondev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais utilizadas" />
 </div>
-
-###
-
-<h2 align="left"></h2>
-
-###
